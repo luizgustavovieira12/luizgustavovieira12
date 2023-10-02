@@ -1,12 +1,10 @@
-### Hi there 👋
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil
 
-Meu nome é luiz gustavo vieira 
+meu nome luiz gustavo vieira 
 
-- Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- aqui e um perfio aonde voce pode obter saude 
+- um fizico estetico
+- qualidade de vida
 
-- ### Você pode entrar em contato comigo :mailbox
-
+###  enteresados entrem em contato comigo 
 vieira.luiz12@escola.pr.gov.br
